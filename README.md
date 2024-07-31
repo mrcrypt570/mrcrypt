@@ -3,6 +3,6 @@
 	<head>
 	</head>
 	<body>
-        	<b>_mrcrypt | site forever under construction</b></br>
+        	<b>being a place for stuff i've learned</b></br>
 	</body>
 </html>
